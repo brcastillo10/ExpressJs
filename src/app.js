@@ -17,6 +17,6 @@ app.get("/home", (request, response) => {
 
 app.listen(9000, () => {
     console.log(
-        'Servidor escuchando en el puerto 30000'
+        'Servidor escuchando en el puerto 9000'
     )
 });
